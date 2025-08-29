@@ -1,4 +1,4 @@
-﻿namespace PharmacyManagementSystem.Models
+﻿namespace Database.Model
 {
     public class OrderItem
     {

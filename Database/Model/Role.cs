@@ -1,7 +1,6 @@
-﻿using Database.Model;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-namespace PharmacyManagementSystem.Models
+namespace Database.Model
 {
     public class Role
     {
